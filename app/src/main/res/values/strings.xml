@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AdaWallet</string>
+    <string name="wallet_widget_name">Wallet Name</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="action_settings">Acction Settings</string>
+
+    <string name="Wallet.Mnemonic.Generate.Title">Generate BIP39 Wallet</string>
+    <string name="Wallet.Mnemonic.Generate.Button">Generate</string>
+
+    <string name="Wallet.Mnemonic.Size.12">12 words</string>
+    <string name="Wallet.Mnemonic.Size.15">15 words</string>
+    <string name="Wallet.Mnemonic.Size.18">18 words</string>
+    <string name="Wallet.Mnemonic.Size.21">21 words</string>
+    <string name="Wallet.Mnemonic.Size.24">24 words</string>
+    <string name="Wallet.Mnemonic.Password.Hint">Wallet Password</string>
+    <string name="Wallet.Mnemonic.Awaiting.Generates"><![CDATA[<Mnemonic to be generated>]]></string>
+    <string name="Wallet.Account0.External.Index0">External address to be generated</string>
+    <string name="Wallet.Add.Address.Button">Generate Address</string>
+</resources>
